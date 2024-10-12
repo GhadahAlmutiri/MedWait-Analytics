@@ -14,10 +14,11 @@ MedWait Analytics is a Power BI dashboard designed to visualize and analyze wait
 
 ## Screenshots
 
-![Dashboard Screenshot 1](IMAGE_URL_1)  
+![Screenshot 2024-10-12 212736](https://github.com/user-attachments/assets/f4241a5a-fdb9-498f-b01d-3fe7781ae7b7)
+
 *Figure 1: Overview of the MedWait Analytics Dashboard*
 
-![Dashboard Screenshot 2](IMAGE_URL_2)  
+![Screenshot 2024-10-12 212749](https://github.com/user-attachments/assets/2285b221-046e-4c55-9c3e-633a0efa03e1)
 *Figure 2: Detailed Insights of Waitlist Data*
 
 ## Steps Used in the Project
